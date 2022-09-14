@@ -1,2 +1,2 @@
 # my-awesome-project
-projet wcs
+Projet pour s'entraîner sur git et github
